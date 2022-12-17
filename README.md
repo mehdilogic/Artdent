@@ -1,2 +1,2 @@
 # Artdent
-Artdent website Repo. part of a task given at the university.  
+Documentation pour le site web Artdent.
