@@ -6,8 +6,7 @@ body {
 	line-height: 1.6;
 	min-height: 100vh;
 	margin: 0;
-	background-image: url(22.jpg);
-	background-color: #000000;
+	background-image: url(21.jpg);
 	width: 100vw;
 	height: 100vh;
 	background-size: cover;
@@ -15,10 +14,10 @@ body {
 }
 
 ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
+	margin: 0;
+	padding: 0;
+	list-style: none;
+  }
 
 .main-nav {
 	margin-top: 1px;
@@ -106,7 +105,7 @@ ul {
 
 .writing1 {
 	text-align: center;
-	color: #6aa3d1;
+	color:  #6aa3d1;
 	font-family: 'Open Sans', sans-serif;
 }
 .writing2 {
@@ -115,11 +114,11 @@ ul {
 	font-family: 'Open Sans', sans-serif;
 }
 .writing3 {
+	margin-top: 100px;
 	text-align: center;
 	color: #6aa3d1;
 	font-family: 'Open Sans', sans-serif;
 }
-
 
 
 
