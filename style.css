@@ -4,6 +4,10 @@ body{
   text-align: center;
 }
 
+p{
+  text-overflow: ellipsis;
+}
+
 .navbar{
     display: flex;
     justify-content: center;
